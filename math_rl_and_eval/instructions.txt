@@ -1,0 +1,1 @@
+python3 cli.py ask "Whatever you want to ask (math problem?)"
