@@ -1,3 +1,0 @@
-Simply run gpt2.py with python (press the play button in vscode, e.g.)
-Wait.
-Ask away!
